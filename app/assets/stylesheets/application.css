@@ -21,3 +21,17 @@ h1 {
 .ask-coach {
   margin-left: 40px;
 }
+
+.answer-container, .coach-container {
+  margin: 0;
+  margin-left: 40px;
+
+}
+
+.coach-container {
+  background-color: lightyellow;
+}
+
+.ask-another-question {
+  margin-left: 40px;
+}
